@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Fotos" id="Fotos">
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="latitude" type="float"></SimpleField>
+	<SimpleField name="longitude" type="float"></SimpleField>
+	<SimpleField name="Z" type="float"></SimpleField>
+</Schema>
+<Folder><name>Fotos</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">0</SimpleData>
+		<SimpleData name="latitude">7535906.9230716</SimpleData>
+		<SimpleData name="longitude">514081.116132173</SimpleData>
+		<SimpleData name="Z">1042.78021240234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8633104241413,-22.2824134604823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="latitude">7535899.20012117</SimpleData>
+		<SimpleData name="longitude">514119.730884319</SimpleData>
+		<SimpleData name="Z">1044.48120117188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8629355120935,-22.2824829153855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="latitude">7535891.47717074</SimpleData>
+		<SimpleData name="longitude">514158.345636464</SimpleData>
+		<SimpleData name="Z">1045.63739013672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8625605996802,-22.2825523694206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="latitude">7535883.75422031</SimpleData>
+		<SimpleData name="longitude">514196.960388609</SimpleData>
+		<SimpleData name="Z">1045.07818603516</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8621856869015,-22.2826218225875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="latitude">7535876.03126988</SimpleData>
+		<SimpleData name="longitude">514235.575140755</SimpleData>
+		<SimpleData name="Z">1050.17065429688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8618107737573,-22.2826912748861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="latitude">7535868.30831946</SimpleData>
+		<SimpleData name="longitude">514274.1898929</SimpleData>
+		<SimpleData name="Z">1046.33251953125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8614358602477,-22.2827607263166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="latitude">7535860.58536903</SimpleData>
+		<SimpleData name="longitude">514312.804645045</SimpleData>
+		<SimpleData name="Z">1042.17211914062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8610609463727,-22.2828301768789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="latitude">7535852.8624186</SimpleData>
+		<SimpleData name="longitude">514351.419397191</SimpleData>
+		<SimpleData name="Z">1031.98010253906</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8606860321323,-22.282899626573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="latitude">7535845.13946817</SimpleData>
+		<SimpleData name="longitude">514390.034149336</SimpleData>
+		<SimpleData name="Z">1040.79736328125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8603111175265,-22.2829690753988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="latitude">7535837.41651774</SimpleData>
+		<SimpleData name="longitude">514428.648901481</SimpleData>
+		<SimpleData name="Z">1037.76153564453</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8599362025553,-22.2830385233564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="latitude">7535829.69356731</SimpleData>
+		<SimpleData name="longitude">514467.263653627</SimpleData>
+		<SimpleData name="Z">1036.03265380859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8595612872189,-22.2831079704458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="latitude">7535821.97061688</SimpleData>
+		<SimpleData name="longitude">514505.878405772</SimpleData>
+		<SimpleData name="Z">1033.32934570312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8591863715171,-22.2831774166669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="latitude">7535814.24766645</SimpleData>
+		<SimpleData name="longitude">514544.493157917</SimpleData>
+		<SimpleData name="Z">1036.25555419922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8588114554499,-22.2832468620198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="latitude">7535806.52471602</SimpleData>
+		<SimpleData name="longitude">514583.107910063</SimpleData>
+		<SimpleData name="Z">1031.19024658203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8584365390175,-22.2833163065044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="latitude">7535798.80176559</SimpleData>
+		<SimpleData name="longitude">514621.722662208</SimpleData>
+		<SimpleData name="Z">1026.65051269531</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8580616222199,-22.2833857501207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="latitude">7535791.07881516</SimpleData>
+		<SimpleData name="longitude">514660.337414353</SimpleData>
+		<SimpleData name="Z">1023.05535888672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8576867050569,-22.2834551928687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="latitude">7535783.35586474</SimpleData>
+		<SimpleData name="longitude">514698.952166499</SimpleData>
+		<SimpleData name="Z">1019.76763916016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8573117875287,-22.2835246347484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="latitude">7535775.63291431</SimpleData>
+		<SimpleData name="longitude">514737.566918644</SimpleData>
+		<SimpleData name="Z">1020.15081787109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8569368696353,-22.2835940757598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="latitude">7535767.90996388</SimpleData>
+		<SimpleData name="longitude">514776.181670789</SimpleData>
+		<SimpleData name="Z">1020.55596923828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8565619513767,-22.283663515903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="latitude">7535758.37901574</SimpleData>
+		<SimpleData name="longitude">514812.084426368</SimpleData>
+		<SimpleData name="Z">1020.80108642578</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.856213342389,-22.2837493123536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="latitude">7535719.76426359</SimpleData>
+		<SimpleData name="longitude">514804.361475939</SimpleData>
+		<SimpleData name="Z">1024.00701904297</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8562879553629,-22.2840982330926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="latitude">7535707.0303593</SimpleData>
+		<SimpleData name="longitude">514779.384626941</SimpleData>
+		<SimpleData name="Z">1024.50408935547</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8565302979843,-22.2842134884856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="latitude">7535714.75330973</SimpleData>
+		<SimpleData name="longitude">514740.769874795</SimpleData>
+		<SimpleData name="Z">1024.85876464844</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8569052177261,-22.2841440484281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="latitude">7535722.47626016</SimpleData>
+		<SimpleData name="longitude">514702.15512265</SimpleData>
+		<SimpleData name="Z">1026.49182128906</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8572801371027,-22.2840746075023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">24</SimpleData>
+		<SimpleData name="latitude">7535730.19921059</SimpleData>
+		<SimpleData name="longitude">514663.540370505</SimpleData>
+		<SimpleData name="Z">1032.48461914062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8576550561141,-22.2840051657081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="latitude">7535737.92216102</SimpleData>
+		<SimpleData name="longitude">514624.925618359</SimpleData>
+		<SimpleData name="Z">1038.32373046875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8580299747602,-22.2839357230457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="latitude">7535745.64511145</SimpleData>
+		<SimpleData name="longitude">514586.310866214</SimpleData>
+		<SimpleData name="Z">1042.22790527344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.858404893041,-22.2838662795149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="latitude">7535753.36806187</SimpleData>
+		<SimpleData name="longitude">514547.696114069</SimpleData>
+		<SimpleData name="Z">1051.39501953125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8587798109565,-22.2837968351158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">28</SimpleData>
+		<SimpleData name="latitude">7535761.0910123</SimpleData>
+		<SimpleData name="longitude">514509.081361923</SimpleData>
+		<SimpleData name="Z">1048.23199462891</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8591547285067,-22.2837273898484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="latitude">7535768.81396273</SimpleData>
+		<SimpleData name="longitude">514470.466609778</SimpleData>
+		<SimpleData name="Z">1053.35778808594</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8595296456916,-22.2836579437128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">30</SimpleData>
+		<SimpleData name="latitude">7535776.53691316</SimpleData>
+		<SimpleData name="longitude">514431.851857633</SimpleData>
+		<SimpleData name="Z">1061.01928710938</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8599045625112,-22.2835884967088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">31</SimpleData>
+		<SimpleData name="latitude">7535784.25986359</SimpleData>
+		<SimpleData name="longitude">514393.237105487</SimpleData>
+		<SimpleData name="Z">1064.1328125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8602794789654,-22.2835190488366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">32</SimpleData>
+		<SimpleData name="latitude">7535791.98281402</SimpleData>
+		<SimpleData name="longitude">514354.622353342</SimpleData>
+		<SimpleData name="Z">1057.23638916016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8606543950543,-22.2834496000962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">33</SimpleData>
+		<SimpleData name="latitude">7535799.70576445</SimpleData>
+		<SimpleData name="longitude">514316.007601197</SimpleData>
+		<SimpleData name="Z">1061.46063232422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8610293107777,-22.2833801504874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">34</SimpleData>
+		<SimpleData name="latitude">7535807.42871488</SimpleData>
+		<SimpleData name="longitude">514277.392849051</SimpleData>
+		<SimpleData name="Z">1063.65661621094</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8614042261358,-22.2833107000105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">35</SimpleData>
+		<SimpleData name="latitude">7535815.15166531</SimpleData>
+		<SimpleData name="longitude">514238.778096906</SimpleData>
+		<SimpleData name="Z">1065.54644775391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8617791411285,-22.2832412486653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">36</SimpleData>
+		<SimpleData name="latitude">7535822.87461574</SimpleData>
+		<SimpleData name="longitude">514200.163344761</SimpleData>
+		<SimpleData name="Z">1059.13073730469</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8621540557557,-22.2831717964519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">37</SimpleData>
+		<SimpleData name="latitude">7535830.59756617</SimpleData>
+		<SimpleData name="longitude">514161.548592615</SimpleData>
+		<SimpleData name="Z">1059.22076416016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8625289700175,-22.2831023433703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">38</SimpleData>
+		<SimpleData name="latitude">7535838.32051659</SimpleData>
+		<SimpleData name="longitude">514122.93384047</SimpleData>
+		<SimpleData name="Z">1058.50567626953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8629038839138,-22.2830328894205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">39</SimpleData>
+		<SimpleData name="latitude">7535846.04346702</SimpleData>
+		<SimpleData name="longitude">514084.319088325</SimpleData>
+		<SimpleData name="Z">1053.44097900391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8632787974446,-22.2829634346025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">40</SimpleData>
+		<SimpleData name="latitude">7535825.17357303</SimpleData>
+		<SimpleData name="longitude">514064.76623246</SimpleData>
+		<SimpleData name="Z">1053.44097900391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8634684200983,-22.2831521377205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">41</SimpleData>
+		<SimpleData name="latitude">7535790.17481631</SimpleData>
+		<SimpleData name="longitude">514062.467275163</SimpleData>
+		<SimpleData name="Z">1058.2421875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8634904298931,-22.2834683432524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">42</SimpleData>
+		<SimpleData name="latitude">7535782.45186588</SimpleData>
+		<SimpleData name="longitude">514101.082027309</SimpleData>
+		<SimpleData name="Z">1073.27593994141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8631155151164,-22.2835377985485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">43</SimpleData>
+		<SimpleData name="latitude">7535774.72891545</SimpleData>
+		<SimpleData name="longitude">514139.696779454</SimpleData>
+		<SimpleData name="Z">1075.76580810547</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8627405999741,-22.2836072529764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">44</SimpleData>
+		<SimpleData name="latitude">7535767.00596502</SimpleData>
+		<SimpleData name="longitude">514178.311531599</SimpleData>
+		<SimpleData name="Z">1077.26989746094</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8623656844664,-22.2836767065361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">45</SimpleData>
+		<SimpleData name="latitude">7535759.28301459</SimpleData>
+		<SimpleData name="longitude">514216.926283745</SimpleData>
+		<SimpleData name="Z">1076.43432617188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8619907685933,-22.2837461592276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">46</SimpleData>
+		<SimpleData name="latitude">7535751.56006416</SimpleData>
+		<SimpleData name="longitude">514255.54103589</SimpleData>
+		<SimpleData name="Z">1086.34509277344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8616158523546,-22.2838156110508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">47</SimpleData>
+		<SimpleData name="latitude">7535743.83711373</SimpleData>
+		<SimpleData name="longitude">514294.155788035</SimpleData>
+		<SimpleData name="Z">1081.95184326172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8612409357506,-22.2838850620058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">48</SimpleData>
+		<SimpleData name="latitude">7535736.1141633</SimpleData>
+		<SimpleData name="longitude">514332.770540181</SimpleData>
+		<SimpleData name="Z">1080.09857177734</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8608660187811,-22.2839545120925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">49</SimpleData>
+		<SimpleData name="latitude">7535728.39121288</SimpleData>
+		<SimpleData name="longitude">514371.385292326</SimpleData>
+		<SimpleData name="Z">1077.42309570312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8604911014462,-22.2840239613109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">50</SimpleData>
+		<SimpleData name="latitude">7535720.66826245</SimpleData>
+		<SimpleData name="longitude">514410.000044472</SimpleData>
+		<SimpleData name="Z">1083.24108886719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8601161837459,-22.2840934096611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">51</SimpleData>
+		<SimpleData name="latitude">7535712.94531202</SimpleData>
+		<SimpleData name="longitude">514448.614796617</SimpleData>
+		<SimpleData name="Z">1079.15246582031</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8597412656802,-22.284162857143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">52</SimpleData>
+		<SimpleData name="latitude">7535705.22236159</SimpleData>
+		<SimpleData name="longitude">514487.229548762</SimpleData>
+		<SimpleData name="Z">1073.60021972656</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8593663472492,-22.2842323037565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">53</SimpleData>
+		<SimpleData name="latitude">7535697.49941116</SimpleData>
+		<SimpleData name="longitude">514525.844300908</SimpleData>
+		<SimpleData name="Z">1059.16864013672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8589914284529,-22.2843017495018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">54</SimpleData>
+		<SimpleData name="latitude">7535689.77646073</SimpleData>
+		<SimpleData name="longitude">514564.459053053</SimpleData>
+		<SimpleData name="Z">1063.64587402344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8586165092912,-22.2843711943788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">55</SimpleData>
+		<SimpleData name="latitude">7535682.0535103</SimpleData>
+		<SimpleData name="longitude">514603.073805198</SimpleData>
+		<SimpleData name="Z">1059.8173828125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8582415897642,-22.2844406383875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">56</SimpleData>
+		<SimpleData name="latitude">7535674.33055987</SimpleData>
+		<SimpleData name="longitude">514641.688557344</SimpleData>
+		<SimpleData name="Z">1042.98156738281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8578666698719,-22.2845100815278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">57</SimpleData>
+		<SimpleData name="latitude">7535666.60760944</SimpleData>
+		<SimpleData name="longitude">514680.303309489</SimpleData>
+		<SimpleData name="Z">1034.96075439453</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8574917496144,-22.2845795237998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">58</SimpleData>
+		<SimpleData name="latitude">7535658.88465901</SimpleData>
+		<SimpleData name="longitude">514718.918061634</SimpleData>
+		<SimpleData name="Z">1038.04278564453</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8571168289916,-22.2846489652034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">59</SimpleData>
+		<SimpleData name="latitude">7535651.16170858</SimpleData>
+		<SimpleData name="longitude">514757.53281378</SimpleData>
+		<SimpleData name="Z">1033.63232421875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8567419080035,-22.2847184057387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">60</SimpleData>
+		<SimpleData name="latitude">7535638.01476502</SimpleData>
+		<SimpleData name="longitude">514788.011576225</SimpleData>
+		<SimpleData name="Z">1031.59405517578</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8564459162301,-22.2848369168299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">61</SimpleData>
+		<SimpleData name="latitude">7535599.40001288</SimpleData>
+		<SimpleData name="longitude">514780.288625796</SimpleData>
+		<SimpleData name="Z">1046.59844970703</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8565205303424,-22.2851858374214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">62</SimpleData>
+		<SimpleData name="latitude">7535592.09010172</SimpleData>
+		<SimpleData name="longitude">514751.695781375</SimpleData>
+		<SimpleData name="Z">1046.92718505859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8567980271062,-22.2852521218614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">63</SimpleData>
+		<SimpleData name="latitude">7535599.81305215</SimpleData>
+		<SimpleData name="longitude">514713.08102923</SimpleData>
+		<SimpleData name="Z">1050.64776611328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.857172949492,-22.2851826812084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">64</SimpleData>
+		<SimpleData name="latitude">7535607.53600258</SimpleData>
+		<SimpleData name="longitude">514674.466277085</SimpleData>
+		<SimpleData name="Z">1047.2724609375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8575478715126,-22.2851132396871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">65</SimpleData>
+		<SimpleData name="latitude">7535615.25895301</SimpleData>
+		<SimpleData name="longitude">514635.851524939</SimpleData>
+		<SimpleData name="Z">1061.74627685547</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8579227931679,-22.2850437972974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">66</SimpleData>
+		<SimpleData name="latitude">7535622.98190344</SimpleData>
+		<SimpleData name="longitude">514597.236772794</SimpleData>
+		<SimpleData name="Z">1070.21643066406</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8582977144579,-22.2849743540393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">67</SimpleData>
+		<SimpleData name="latitude">7535630.70485387</SimpleData>
+		<SimpleData name="longitude">514558.622020649</SimpleData>
+		<SimpleData name="Z">1078.07977294922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8586726353825,-22.2849049099129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">68</SimpleData>
+		<SimpleData name="latitude">7535638.42780429</SimpleData>
+		<SimpleData name="longitude">514520.007268503</SimpleData>
+		<SimpleData name="Z">1084.45031738281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8590475559419,-22.2848354649181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">69</SimpleData>
+		<SimpleData name="latitude">7535646.15075472</SimpleData>
+		<SimpleData name="longitude">514481.392516358</SimpleData>
+		<SimpleData name="Z">1091.89630126953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8594224761359,-22.284766019055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">70</SimpleData>
+		<SimpleData name="latitude">7535653.87370515</SimpleData>
+		<SimpleData name="longitude">514442.777764212</SimpleData>
+		<SimpleData name="Z">1098.22918701172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8597973959646,-22.2846965723236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">71</SimpleData>
+		<SimpleData name="latitude">7535661.59665558</SimpleData>
+		<SimpleData name="longitude">514404.163012067</SimpleData>
+		<SimpleData name="Z">1106.52386474609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8601723154279,-22.2846271247239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">72</SimpleData>
+		<SimpleData name="latitude">7535669.31960601</SimpleData>
+		<SimpleData name="longitude">514365.548259922</SimpleData>
+		<SimpleData name="Z">1099.95983886719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8605472345258,-22.2845576762558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">73</SimpleData>
+		<SimpleData name="latitude">7535677.04255644</SimpleData>
+		<SimpleData name="longitude">514326.933507776</SimpleData>
+		<SimpleData name="Z">1102.35736083984</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8609221532583,-22.2844882269195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">74</SimpleData>
+		<SimpleData name="latitude">7535684.76550687</SimpleData>
+		<SimpleData name="longitude">514288.318755631</SimpleData>
+		<SimpleData name="Z">1106.36798095703</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8612970716254,-22.2844187767149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">75</SimpleData>
+		<SimpleData name="latitude">7535692.4884573</SimpleData>
+		<SimpleData name="longitude">514249.704003486</SimpleData>
+		<SimpleData name="Z">1107.93487548828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8616719896271,-22.284349325642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">76</SimpleData>
+		<SimpleData name="latitude">7535700.21140773</SimpleData>
+		<SimpleData name="longitude">514211.08925134</SimpleData>
+		<SimpleData name="Z">1098.37841796875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8620469072633,-22.2842798737008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">77</SimpleData>
+		<SimpleData name="latitude">7535707.93435816</SimpleData>
+		<SimpleData name="longitude">514172.474499195</SimpleData>
+		<SimpleData name="Z">1097.31921386719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8624218245341,-22.2842104208913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">78</SimpleData>
+		<SimpleData name="latitude">7535715.65730859</SimpleData>
+		<SimpleData name="longitude">514133.85974705</SimpleData>
+		<SimpleData name="Z">1095.10314941406</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8627967414393,-22.2841409672136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">79</SimpleData>
+		<SimpleData name="latitude">7535723.38025901</SimpleData>
+		<SimpleData name="longitude">514095.244994904</SimpleData>
+		<SimpleData name="Z">1091.4765625</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8631716579791,-22.2840715126677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">80</SimpleData>
+		<SimpleData name="latitude">7535731.10320944</SimpleData>
+		<SimpleData name="longitude">514056.630242759</SimpleData>
+		<SimpleData name="Z">1072.29455566406</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8635465741533,-22.2840020572535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">81</SimpleData>
+		<SimpleData name="latitude">7535704.80932232</SimpleData>
+		<SimpleData name="longitude">514040.693382317</SimpleData>
+		<SimpleData name="Z">1077.93933105469</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8637010491549,-22.2842397321673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">82</SimpleData>
+		<SimpleData name="latitude">7535673.42656102</SimpleData>
+		<SimpleData name="longitude">514043.818418155</SimpleData>
+		<SimpleData name="Z">1083.08483886719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8636704383007,-22.2845232256996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">83</SimpleData>
+		<SimpleData name="latitude">7535665.70361059</SimpleData>
+		<SimpleData name="longitude">514082.4331703</SimpleData>
+		<SimpleData name="Z">1100.26019287109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8632955207949,-22.2845926813886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">84</SimpleData>
+		<SimpleData name="latitude">7535657.98066016</SimpleData>
+		<SimpleData name="longitude">514121.047922445</SimpleData>
+		<SimpleData name="Z">1107.02435302734</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8629206029236,-22.2846621362094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">85</SimpleData>
+		<SimpleData name="latitude">7535650.25770973</SimpleData>
+		<SimpleData name="longitude">514159.662674591</SimpleData>
+		<SimpleData name="Z">1114.49798583984</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8625456846868,-22.284731590162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">86</SimpleData>
+		<SimpleData name="latitude">7535642.5347593</SimpleData>
+		<SimpleData name="longitude">514198.277426736</SimpleData>
+		<SimpleData name="Z">1115.87896728516</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8621707660844,-22.2848010432462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">87</SimpleData>
+		<SimpleData name="latitude">7535634.81180887</SimpleData>
+		<SimpleData name="longitude">514236.892178881</SimpleData>
+		<SimpleData name="Z">1115.79711914062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8617958471166,-22.2848704954622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">88</SimpleData>
+		<SimpleData name="latitude">7535627.08885844</SimpleData>
+		<SimpleData name="longitude">514275.506931027</SimpleData>
+		<SimpleData name="Z">1114.86584472656</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8614209277833,-22.2849399468099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">89</SimpleData>
+		<SimpleData name="latitude">7535619.36590801</SimpleData>
+		<SimpleData name="longitude">514314.121683172</SimpleData>
+		<SimpleData name="Z">1114.69287109375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8610460080846,-22.2850093972893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">90</SimpleData>
+		<SimpleData name="latitude">7535611.64295758</SimpleData>
+		<SimpleData name="longitude">514352.736435317</SimpleData>
+		<SimpleData name="Z">1115.51171875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8606710880204,-22.2850788469004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">91</SimpleData>
+		<SimpleData name="latitude">7535603.92000716</SimpleData>
+		<SimpleData name="longitude">514391.351187463</SimpleData>
+		<SimpleData name="Z">1114.88049316406</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8602961675908,-22.2851482956432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">92</SimpleData>
+		<SimpleData name="latitude">7535596.19705673</SimpleData>
+		<SimpleData name="longitude">514429.965939608</SimpleData>
+		<SimpleData name="Z">1113.68420410156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8599212467958,-22.2852177435176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">93</SimpleData>
+		<SimpleData name="latitude">7535588.4741063</SimpleData>
+		<SimpleData name="longitude">514468.580691753</SimpleData>
+		<SimpleData name="Z">1103.00842285156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8595463256355,-22.2852871905237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">94</SimpleData>
+		<SimpleData name="latitude">7535580.75115587</SimpleData>
+		<SimpleData name="longitude">514507.195443899</SimpleData>
+		<SimpleData name="Z">1095.98944091797</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8591714041097,-22.2853566366615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">95</SimpleData>
+		<SimpleData name="latitude">7535573.02820544</SimpleData>
+		<SimpleData name="longitude">514545.810196044</SimpleData>
+		<SimpleData name="Z">1087.65167236328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8587964822186,-22.2854260819309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">96</SimpleData>
+		<SimpleData name="latitude">7535565.30525501</SimpleData>
+		<SimpleData name="longitude">514584.424948189</SimpleData>
+		<SimpleData name="Z">1071.68634033203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8584215599622,-22.2854955263319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">97</SimpleData>
+		<SimpleData name="latitude">7535557.58230458</SimpleData>
+		<SimpleData name="longitude">514623.039700335</SimpleData>
+		<SimpleData name="Z">1066.70196533203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8580466373404,-22.2855649698646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">98</SimpleData>
+		<SimpleData name="latitude">7535549.85935415</SimpleData>
+		<SimpleData name="longitude">514661.65445248</SimpleData>
+		<SimpleData name="Z">1062.92492675781</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8576717143534,-22.2856344125288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">99</SimpleData>
+		<SimpleData name="latitude">7535542.13640372</SimpleData>
+		<SimpleData name="longitude">514700.269204625</SimpleData>
+		<SimpleData name="Z">1063.36419677734</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.857296791001,-22.2857038543247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">100</SimpleData>
+		<SimpleData name="latitude">7535534.41345329</SimpleData>
+		<SimpleData name="longitude">514738.883956771</SimpleData>
+		<SimpleData name="Z">1060.75653076172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8569218672834,-22.2857732952522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">101</SimpleData>
+		<SimpleData name="latitude">7535517.65051431</SimpleData>
+		<SimpleData name="longitude">514763.938726082</SimpleData>
+		<SimpleData name="Z">1059.93786621094</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8566784936197,-22.2859245208465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">102</SimpleData>
+		<SimpleData name="latitude">7535479.03576216</SimpleData>
+		<SimpleData name="longitude">514756.215775653</SimpleData>
+		<SimpleData name="Z">1086.82934570312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8567531088704,-22.2862734412905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">103</SimpleData>
+		<SimpleData name="latitude">7535477.14984414</SimpleData>
+		<SimpleData name="longitude">514724.006935811</SimpleData>
+		<SimpleData name="Z">1083.49310302734</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8570657601393,-22.2862907546837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">104</SimpleData>
+		<SimpleData name="latitude">7535484.87279457</SimpleData>
+		<SimpleData name="longitude">514685.392183665</SimpleData>
+		<SimpleData name="Z">1074.69708251953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8574406851692,-22.2862213134352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">105</SimpleData>
+		<SimpleData name="latitude">7535492.595745</SimpleData>
+		<SimpleData name="longitude">514646.77743152</SimpleData>
+		<SimpleData name="Z">1077.73333740234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8578156098339,-22.2861518713183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">106</SimpleData>
+		<SimpleData name="latitude">7535500.31869543</SimpleData>
+		<SimpleData name="longitude">514608.162679375</SimpleData>
+		<SimpleData name="Z">1079.76214599609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8581905341332,-22.286082428333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">107</SimpleData>
+		<SimpleData name="latitude">7535508.04164586</SimpleData>
+		<SimpleData name="longitude">514569.547927229</SimpleData>
+		<SimpleData name="Z">1073.11047363281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8585654580673,-22.2860129844793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">108</SimpleData>
+		<SimpleData name="latitude">7535515.76459628</SimpleData>
+		<SimpleData name="longitude">514530.933175084</SimpleData>
+		<SimpleData name="Z">1082.10095214844</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.858940381636,-22.2859435397572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">109</SimpleData>
+		<SimpleData name="latitude">7535523.48754671</SimpleData>
+		<SimpleData name="longitude">514492.318422938</SimpleData>
+		<SimpleData name="Z">1097.28314208984</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8593153048393,-22.2858740941667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">110</SimpleData>
+		<SimpleData name="latitude">7535531.21049714</SimpleData>
+		<SimpleData name="longitude">514453.703670793</SimpleData>
+		<SimpleData name="Z">1101.86798095703</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8596902276773,-22.2858046477078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">111</SimpleData>
+		<SimpleData name="latitude">7535538.93344757</SimpleData>
+		<SimpleData name="longitude">514415.088918648</SimpleData>
+		<SimpleData name="Z">1103.73638916016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8600651501498,-22.2857352003806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">112</SimpleData>
+		<SimpleData name="latitude">7535546.656398</SimpleData>
+		<SimpleData name="longitude">514376.474166502</SimpleData>
+		<SimpleData name="Z">1105.19500732422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.860440072257,-22.285665752185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">113</SimpleData>
+		<SimpleData name="latitude">7535554.37934843</SimpleData>
+		<SimpleData name="longitude">514337.859414357</SimpleData>
+		<SimpleData name="Z">1097.19781494141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8608149939988,-22.285596303121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">114</SimpleData>
+		<SimpleData name="latitude">7535562.10229886</SimpleData>
+		<SimpleData name="longitude">514299.244662212</SimpleData>
+		<SimpleData name="Z">1088.14892578125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8611899153751,-22.2855268531888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">115</SimpleData>
+		<SimpleData name="latitude">7535569.82524929</SimpleData>
+		<SimpleData name="longitude">514260.629910066</SimpleData>
+		<SimpleData name="Z">1088.46319580078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8615648363859,-22.2854574023881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">116</SimpleData>
+		<SimpleData name="latitude">7535577.54819972</SimpleData>
+		<SimpleData name="longitude">514222.015157921</SimpleData>
+		<SimpleData name="Z">1108.9609375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8619397570313,-22.2853879507192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">117</SimpleData>
+		<SimpleData name="latitude">7535585.27115015</SimpleData>
+		<SimpleData name="longitude">514183.400405776</SimpleData>
+		<SimpleData name="Z">1107.58428955078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8623146773112,-22.285318498182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">118</SimpleData>
+		<SimpleData name="latitude">7535592.99410058</SimpleData>
+		<SimpleData name="longitude">514144.78565363</SimpleData>
+		<SimpleData name="Z">1102.79974365234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8626895972256,-22.2852490447764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">119</SimpleData>
+		<SimpleData name="latitude">7535600.717051</SimpleData>
+		<SimpleData name="longitude">514106.170901485</SimpleData>
+		<SimpleData name="Z">1103.64825439453</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8630645167745,-22.2851795905026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">120</SimpleData>
+		<SimpleData name="latitude">7535608.44000143</SimpleData>
+		<SimpleData name="longitude">514067.55614934</SimpleData>
+		<SimpleData name="Z">1104.26379394531</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8634394359579,-22.2851101353604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">121</SimpleData>
+		<SimpleData name="latitude">7535616.16295186</SimpleData>
+		<SimpleData name="longitude">514028.941397194</SimpleData>
+		<SimpleData name="Z">1078.70550537109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8638143547757,-22.28504067935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">122</SimpleData>
+		<SimpleData name="latitude">7535584.4450716</SimpleData>
+		<SimpleData name="longitude">514016.620532174</SimpleData>
+		<SimpleData name="Z">1085.69604492188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8639336817632,-22.2853273261534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">123</SimpleData>
+		<SimpleData name="latitude">7535556.67830573</SimpleData>
+		<SimpleData name="longitude">514025.169561145</SimpleData>
+		<SimpleData name="Z">1091.04833984375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8638504493643,-22.2855781078238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">124</SimpleData>
+		<SimpleData name="latitude">7535548.9553553</SimpleData>
+		<SimpleData name="longitude">514063.78431329</SimpleData>
+		<SimpleData name="Z">1096.44213867188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8634755291293,-22.2856475639058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">125</SimpleData>
+		<SimpleData name="latitude">7535541.23240487</SimpleData>
+		<SimpleData name="longitude">514102.399065436</SimpleData>
+		<SimpleData name="Z">1066.5390625</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8631006085288,-22.2857170191196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">126</SimpleData>
+		<SimpleData name="latitude">7535533.50945444</SimpleData>
+		<SimpleData name="longitude">514141.013817581</SimpleData>
+		<SimpleData name="Z">1062.20343017578</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8627256875627,-22.285786473465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">127</SimpleData>
+		<SimpleData name="latitude">7535525.78650401</SimpleData>
+		<SimpleData name="longitude">514179.628569726</SimpleData>
+		<SimpleData name="Z">1074.92724609375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.862350766231,-22.2858559269421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">128</SimpleData>
+		<SimpleData name="latitude">7535518.06355358</SimpleData>
+		<SimpleData name="longitude">514218.243321872</SimpleData>
+		<SimpleData name="Z">1077.44592285156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8619758445339,-22.2859253795509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">129</SimpleData>
+		<SimpleData name="latitude">7535510.34060315</SimpleData>
+		<SimpleData name="longitude">514256.858074017</SimpleData>
+		<SimpleData name="Z">1056.3388671875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8616009224712,-22.2859948312914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">130</SimpleData>
+		<SimpleData name="latitude">7535502.61765272</SimpleData>
+		<SimpleData name="longitude">514295.472826162</SimpleData>
+		<SimpleData name="Z">1057.49194335938</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8612260000431,-22.2860642821635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">131</SimpleData>
+		<SimpleData name="latitude">7535494.89470229</SimpleData>
+		<SimpleData name="longitude">514334.087578308</SimpleData>
+		<SimpleData name="Z">1068.71325683594</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8608510772495,-22.2861337321673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">132</SimpleData>
+		<SimpleData name="latitude">7535487.17175186</SimpleData>
+		<SimpleData name="longitude">514372.702330453</SimpleData>
+		<SimpleData name="Z">1080.69653320312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8604761540905,-22.2862031813027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">133</SimpleData>
+		<SimpleData name="latitude">7535479.44880143</SimpleData>
+		<SimpleData name="longitude">514411.317082598</SimpleData>
+		<SimpleData name="Z">1078.01812744141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.860101230566,-22.2862726295697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">134</SimpleData>
+		<SimpleData name="latitude">7535471.72585101</SimpleData>
+		<SimpleData name="longitude">514449.931834744</SimpleData>
+		<SimpleData name="Z">1073.02178955078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8597263066761,-22.2863420769684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">135</SimpleData>
+		<SimpleData name="latitude">7535464.00290058</SimpleData>
+		<SimpleData name="longitude">514488.546586889</SimpleData>
+		<SimpleData name="Z">1067.94409179688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8593513824208,-22.2864115234986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">136</SimpleData>
+		<SimpleData name="latitude">7535456.27995015</SimpleData>
+		<SimpleData name="longitude">514527.161339034</SimpleData>
+		<SimpleData name="Z">1069.73370361328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8589764578001,-22.2864809691605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">137</SimpleData>
+		<SimpleData name="latitude">7535448.55699972</SimpleData>
+		<SimpleData name="longitude">514565.77609118</SimpleData>
+		<SimpleData name="Z">1085.99328613281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8586015328141,-22.286550413954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">138</SimpleData>
+		<SimpleData name="latitude">7535440.83404929</SimpleData>
+		<SimpleData name="longitude">514604.390843325</SimpleData>
+		<SimpleData name="Z">1092.51531982422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8582266074627,-22.286619857879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">139</SimpleData>
+		<SimpleData name="latitude">7535433.11109886</SimpleData>
+		<SimpleData name="longitude">514643.00559547</SimpleData>
+		<SimpleData name="Z">1095.69940185547</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8578516817459,-22.2866893009356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">140</SimpleData>
+		<SimpleData name="latitude">7535425.38814843</SimpleData>
+		<SimpleData name="longitude">514681.620347616</SimpleData>
+		<SimpleData name="Z">1094.72747802734</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8574767556639,-22.2867587431238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="id">141</SimpleData>
+		<SimpleData name="latitude">7535417.665198</SimpleData>
+		<SimpleData name="longitude">514720.235099761</SimpleData>
+		<SimpleData name="Z">1104.86877441406</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-44.8571018292165,-22.2868281844436</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
